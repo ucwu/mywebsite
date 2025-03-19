@@ -170,14 +170,14 @@ header h1{
 }
 .imagetitle1{
     position:  relative;
-    top:5px;
+    top:10px;
     font-size:25px;
     color:blue;
     margin-top: -20px;
 }
 .imagetitle2{
     position: relative;
-    top:5px;
+    top:10px;
     font-size:25px;
     color:blue;
 }
@@ -189,11 +189,11 @@ header h1{
 }
 .imagewrite1{
     position:  relative;
-    top:5px;
+    top:10px;
 }
 .imagewrite2{
     position:  relative;
-    top:5px;
+    top:10px;
 }
 .imagewrite3{
     position:  relative;
